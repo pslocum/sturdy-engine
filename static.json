@@ -27,7 +27,7 @@
             {
               "label": "Region",
               "property": "entries[0].content.region"
-            }
+            },
             {
               "label": "Sample",
               "property": "entries[0].content.sample",
