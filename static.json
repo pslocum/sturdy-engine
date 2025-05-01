@@ -8,10 +8,10 @@
     "version": "1.0.0",
     "attributes": {
       "metadata": {
-        "title": "Search | Globus Search Portal"
+        "title": "Example: Globus Embed"
       },
       "content": {
-        "headline": "Globus Search Portal for test"
+        "headline": "Example: Globus Embed"
       },
       "features": {
         "transfer": false
@@ -44,13 +44,16 @@
                 "collection": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
                 "renderer": "plotly"
               }
-            }            
+            }
           ]
         }
       },
       "globus": {
+        "application": {
+          "client_id": "7442cbd9-2766-42b9-9512-9195b12ed167"
+        },
         "search": {
-          "index": "78b92aca-e361-4307-8f66-bc448f20e2c3",
+          "index": "fbd23dc9-546c-4ecf-857f-708e6e706fa0",
           "facets": [
             {
               "name": "Tags",
